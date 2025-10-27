@@ -2,7 +2,7 @@
 
 How to run:
 
-The SARCOMANetProject.ipynb file uploaded just needs to be downloaded and opened in Google Colab Notebooks. Once Google Colab Notebooks opens up, locate the tab "Runtime", click on it and in the dropdown you will see the option "Run all". You can click on it to run the program.
+The SARCOMANetProject.ipynb file just needs to be downloaded and opened in Google Colab Notebooks. Once Google Colab Notebooks opens up, locate the tab "Runtime", click on it and in the dropdown you will see the option "Run all". You can click on it to run the program.
 
 Note: The SARCOMANetProject.ipynb file cannot be run without downloading the exact data files referenced in the code cells from The Cancer Genome Atlas, which requires either the GDC Transfer Tool or manual downloads to save the large whole slide imaging (.svs) files and RNA Sequencing files from TCGA-SARC database. This process can take several dozen hours. **Also, the SARCOMANETProject.ipynb file cannot be displayed in GtiHub due to size constraints, so, to view the code, please download and view using an IDE such as Visual Studio.**
 
